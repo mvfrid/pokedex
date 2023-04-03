@@ -6,7 +6,7 @@ export default function Links() {
   
   return (
   <>
-  <p>Hello there!</p>
+  <div><p>Hello there!</p></div>
   </>
   );
 }
