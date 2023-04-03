@@ -16,7 +16,7 @@ export default function Links() {
       <p>You can also scan this QR code to open it:</p>
       <img src="./assets/qr_code.png" />
       <img src="qr_code2.png" />
-      <img src="./qr_code2.png" />
+      <img src="https://i.postimg.cc/4yhX95HS/qr-code2.png" />
     </div>
   </div>
   );
