@@ -8,7 +8,7 @@ export default function Links() {
   <div class="container">
     <div class="links"> 
       <p>To open this app, you need to first download the app Expo Go.</p>
-      <a class="fakeBtn" href="exp://exp.host/@mvfrid/matildas-pokeapp+zAAZ1c9o5m">Open Pokédex App in Expo Go</a>
+      <a class="fakeBtn" href="exp://exp.host/@mvfrid/matildas-pokeapp+zAAZ1c9o5m">Open Pokédex App</a>
       <a class="fakeBtn" href="https://expo.dev/client">Download Expo Go</a>
     </div>
 
