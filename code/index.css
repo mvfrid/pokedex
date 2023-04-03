@@ -10,7 +10,7 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     background-color: #2F2F2F;
-    padding: 50px 150px;
+    padding: 20px 50px;
   }
   
   code {
@@ -37,6 +37,7 @@
     align-items: center;
     align-content: center;
     gap: 50px;
+    margin: auto;
   }
 
   .links {
@@ -61,5 +62,13 @@
     background-color: rgb(53, 5, 99);
     color: white;
     border-radius: 25px;
-    padding: 10px;
+    padding: 8px 12px;
+  }
+
+  @media (min-width: 667px) {
+      
+  body {
+    padding: 50px 150px;
+  }
+
   }
