@@ -50,10 +50,10 @@
     align-content: center;
   }
 
-  .qr {
+  .QR {
     display: flex;
     flex-direction: column;
-    gap: 25px;
+    gap: 8px;
     justify-content: center;
     align-items: center;
     align-content: center;
