@@ -21,6 +21,7 @@
   p {
     color: white;
     font-size: 18px;
+    text-align: center;
   }
 
   a {
@@ -36,14 +37,14 @@
     justify-content: center;
     align-items: center;
     align-content: center;
-    gap: 50px;
+    gap: 35px;
     margin: auto;
   }
 
   .links {
     display: flex;
     flex-direction: column;
-    gap: 25px;
+    gap: 10px;
     justify-content: center;
     align-items: center;
     align-content: center;
@@ -74,6 +75,14 @@
       
   body {
     padding: 50px 150px;
+  }
+
+  .container {
+    gap: 50px;
+  }
+
+  .links {
+    gap: 25px;
   }
 
   }
