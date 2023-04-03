@@ -17,3 +17,32 @@
       monospace;
   }
   
+  p {
+    color: white;
+    font-size: 18px;
+  }
+
+  a {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  .links {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+  }
+
+  .qr {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+  }
+
+  .fakeBtn {
+    background-color: rgb(30, 48, 128);
+    color: white;
+    border-radius: 25px;
+  }
