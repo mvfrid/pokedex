@@ -57,6 +57,7 @@
     justify-content: center;
     align-items: center;
     align-content: center;
+    padding: 0 5px;
   }
 
   .fakeBtn {
@@ -87,6 +88,7 @@
 
   img {
     max-width: 100%;
+    margin: auto;
   }
 
   }
