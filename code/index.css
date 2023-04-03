@@ -67,7 +67,7 @@
   }
 
   img {
-    max-width: 100%;
+    max-width: 80%;
   }
 
   @media (min-width: 667px) {
@@ -82,6 +82,10 @@
 
   .links {
     gap: 25px;
+  }
+
+  img {
+    max-width: 100%;
   }
 
   }
