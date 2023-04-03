@@ -5,8 +5,8 @@ import React from 'react';
 export default function Links() {
   
   return (
-  <View>
-    <Text>Hello</Text>
-    </View>
+  <>
+  <p>Hello there!</p>
+  </>
   );
 }
