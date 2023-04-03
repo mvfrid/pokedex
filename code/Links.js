@@ -14,7 +14,7 @@ export default function Links() {
 
     <div class="QR">
       <p>You can also scan this QR code to open it:</p>
-      <img src="https://i.postimg.cc/4yhX95HS/qr-code2.png" />
+      <img src="https://i.postimg.cc/gJsSmXzt/qr-code3.png" />
     </div>
   </div>
   );
